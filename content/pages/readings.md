@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: The reading section contains a table with suggested readings.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -36,7 +34,7 @@ Fulton. _Intersection Theory._ Berlin, Germany; New York, NY: Springer, c1998, c
   
 Harris. _Algebraic Geometry: A First Course._ New York, NY: Springer-Verlag, 1992, lectures 6 and 16. ISBN: 0387977163.  
   
-Vakil, R. _A Geometric Littlewood - Richardson Rule._ ([PDF](http://math.stanford.edu/~vakil/files/geolrfinal.pdf))  
+Vakil, R. _A Geometric Littlewood - Richardson Rule._ ({{% resource_link "3fede920-8b44-417b-954e-7e35549c0d34" "PDF" %}})  
   
 The following is a very pleasant survey article:  
   
@@ -72,11 +70,11 @@ The Cohomology of the Moduli Space of Curves
 {{< tdopen >}}
 A great source is: Harer, J. "The cohomology of the moduli space of curves, in Theory of Moduli." Lectures given at C.I.M.E. Springer Lecture Notes in Mathematics. Vol. 1337. Springer Verlag, Berlin, 1988.  
   
-Check out this paper by Hain and Looijenga, it contains a survey of the stuff we have been talking about. ([PS](https://arxiv.org/pdf/alg-geom/9607004.pdf))  
+Check out this paper by Hain and Looijenga, it contains a survey of the stuff we have been talking about. ({{% resource_link "59ba892c-8f96-4f90-921e-d2a13523f06f" "PS" %}})  
   
 Arbarello, E., and M. Cornalba. "Combinatorial and algebro-geometric cohomology classes on the moduli spaces of curves." _J Alg Geom_ 5 (1996): 705-749.  
   
-———. "Calculating cohomology groups of moduli spaces of curves via algebraic geometry." _Mathématiques de l'IHÉS_ 88 (1998): 97-127. ([PDF](http://archive.numdam.org/ARCHIVE/PMIHES/PMIHES_1998__88_/PMIHES_1998__88__97_0/PMIHES_1998__88__97_0.pdf))  
+———. "Calculating cohomology groups of moduli spaces of curves via algebraic geometry." _Mathématiques de l'IHÉS_ 88 (1998): 97-127. ({{% resource_link "f5cfbae1-34b9-4bda-b4c4-23fd164601fa" "PDF" %}})  
   
 ———. "The Picard Groups of the Moduli Spaces of Curves_._" In _Topology._ Vol. 26, 1987, pp. 153-171.
 {{< tdclose >}}
@@ -104,13 +102,13 @@ The Kontsevich Moduli Space of Stable Maps
 {{< tdopen >}}
 Fulton and Pandharipande have a great article. This is probably the best introduction to the subject.  
   
-Fulton and Pandharipande. "[Notes on stable maps and quantum cohomology](http://de.arxiv.org/abs/alg-geom/9608011)." 1996.  
+Fulton and Pandharipande. "{{% resource_link "b892a22d-ab93-43cf-b55d-7a14772b65d1" "Notes on stable maps and quantum cohomology" %}}." 1996.  
   
 Other papers of interest are:  
   
-Pandharipande, Rahul. "[Intersections of Q-Divisors on Kontsevich's Moduli Space $\\bar{M}\_{0,n}(P^r,d)$ and Enumerative Geometry](http://de.arxiv.org/abs/alg-geom/9504004)." 1995.  
+Pandharipande, Rahul. "{{% resource_link "071b64e9-531d-401a-98c8-849471f4a7c4" "Intersections of Q-Divisors on Kontsevich's Moduli Space $\\bar{M}\_{0,n}(P^r,d)$ and Enumerative Geometry" %}}." 1995.  
   
-Vakil, Ravi. "The enumerative geometry of rational and elliptic curves in projective space." _J Reine Angew_ _Math_ 529 (2000): 101-153. (Crelle's journal.) ([PDF](http://math.stanford.edu/~vakil/files/re4.pdf))
+Vakil, Ravi. "The enumerative geometry of rational and elliptic curves in projective space." _J Reine Angew_ _Math_ 529 (2000): 101-153. (Crelle's journal.) ({{% resource_link "b0c4b339-4bc0-49e2-8ad8-ac118be611ef" "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

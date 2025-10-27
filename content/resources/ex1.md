@@ -5,8 +5,6 @@ description: This file contains a set of exercises in order to gain practice wit
 file: /courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/3a37bccff1925226569d9b08b8486c23_ex1.pdf
 file_size: 33543
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

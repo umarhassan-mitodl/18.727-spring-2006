@@ -5,8 +5,6 @@ description: This file discusses about the moduli space of curves and a few rema
 file: /courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/06c4e979c3dadcba7d0f3dd69efdb315_const.pdf
 file_size: 390026
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

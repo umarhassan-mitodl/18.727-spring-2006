@@ -5,8 +5,6 @@ description: This file discusses about this course, as well as, preliminaries ab
 file: /courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/724a313e15ee9f90ae4537c0c240f893_week1.pdf
 file_size: 253501
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

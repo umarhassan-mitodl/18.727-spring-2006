@@ -7,8 +7,6 @@ description: This file discusses about the cohomology of the moduli space of poi
 file: /courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/10078cf3d80a1cdf4ff766a80eee8b32_picard.pdf
 file_size: 264298
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

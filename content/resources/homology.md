@@ -9,8 +9,6 @@ description: 'The purpose of this unit is to give a brief survey about the cohom
 file: /courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/e804cb6c61fbbc1d22dd5926b54e8696_homology.pdf
 file_size: 412673
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

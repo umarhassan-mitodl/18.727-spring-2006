@@ -2,8 +2,6 @@
 content_type: page
 description: The study materials section contains practice problems on Schubert calculus,
   the Hilbert scheme of conics and divisor class calculations for this course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

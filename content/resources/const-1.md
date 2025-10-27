@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/c551b2cfe8816272aa54a51c6d04079e_const.pdf
 file_size: 390024
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

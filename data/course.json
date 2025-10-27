@@ -26,7 +26,6 @@
     "website": "18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006"
   },
   "course_title": "Topics in Algebraic Geometry: Intersection Theory on Moduli Spaces",
-  "hide_download": true,
   "course_description": "The topics for this course vary each semester. This semester, the course aims to introduce techniques for studying intersection theory on moduli spaces. In particular, it covers the geometry of homogeneous varieties, the Deligne-Mumford moduli spaces of stable curves and the Kontsevich moduli spaces of stable maps using intersection theory.\n",
   "department_numbers": [
     "18"
@@ -37,7 +36,6 @@
     "content": "fd9794f0-649f-b077-ea0c-30a65d6c20db",
     "website": "18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],
